@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/drug-repurposing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicting New Indications for Known Drugs Based on Similarity in Drug Signatures</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</link>
+      <link>http://localhost:1313/kthuang20/Katie_Portfolio/projects/project-2/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</guid>
+      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/projects/project-2/</guid>
       <description>Drug repurposing offers a quicker and potentially more cost-effective approach to finding new treatments by repositioning existing drugs with known safety profiles for alternative therapeutic indications. To accelerate the discovery of drug repurposing, the LINCS 1000 project has measured the in vitro effect of hundreds of drugs on gene expression across many cancer cell lines. Using this data, we propose a new approach to facilitating the discovery of new indications of known drugs.</description>
     </item>
   </channel>
