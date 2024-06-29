@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Katie Huang</title>
+    <link>http://localhost:1313/kthuang20/Katie_Portfolio/about/</link>
+    <description>Recent content in Abouts on Katie Huang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/kthuang20/Katie_Portfolio/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/about/about/</guid>
+      <description>I obtained my Bachelor&amp;rsquo;s of Science in Biomedical Engineering at UMass Lowell and am currently working towards my Master&amp;rsquo;s of Science in Biomedical Engineering and Biotechnology there. I am a self-motivated learner and with a growth mindset who is passionate and adept at computational problem solving and leveraging statistical methods in Python to build data-driven models aimed at helping develop more effective treatments for patients.</description>
+    </item>
+  </channel>
+</rss>
