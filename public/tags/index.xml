@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Katie Huang</title>
-    <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/</link>
+    <link>https://github.com/kthuang20/Katie_Portfolio/tags/</link>
     <description>Recent content in Tags on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Biology</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/computational-biology/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/computational-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/computational-biology/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/computational-biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/data-science/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/data-science/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Drug Repurposing</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/drug-repurposing/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/drug-repurposing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/drug-repurposing/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/drug-repurposing/</guid>
       <description></description>
     </item>
     <item>
       <title>Antibiotic Resistance</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</guid>
       <description></description>
     </item>
     <item>
       <title>Cheminformatics</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/cheminformatics/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/cheminformatics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/cheminformatics/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/cheminformatics/</guid>
       <description></description>
     </item>
     <item>
       <title>Drug Discovery</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/drug-discovery/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/drug-discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/drug-discovery/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/drug-discovery/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/machine-learning/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/machine-learning/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Cancer Genomics</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/cancer-genomics/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/cancer-genomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/cancer-genomics/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/cancer-genomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/finance/</guid>
       <description></description>
     </item>
   </channel>
