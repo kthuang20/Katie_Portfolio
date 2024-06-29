@@ -14,7 +14,7 @@ canonifyURLS = false
   [languages.en]
     title = "Katie Huang"
     weight = 1
-    contentDir = "content/"
+    contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]
@@ -32,9 +32,12 @@ canonifyURLS = false
   background_color_class = "bg-black"
   recent_posts_number = 5
 
-[[params.ananke_socials]]
-name = "Resume"
-url = "/images/Huang_Katie_Resume.pdf"
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
 
 [[params.ananke_socials]]
 name = "GitHub"

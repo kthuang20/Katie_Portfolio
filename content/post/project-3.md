@@ -7,7 +7,8 @@ title: "Compound Interest Calculator"
 ---
 
 **Compound Interest Equation Used:**
-{{< figure src="/images/compound_interest_formula.png" >}}
+
+![](https://sqy7rm.media.zestyio.com/Compound-Interest-Formula-Mobile.png)
 
 The inspiration for this user interactive calculator was based on https://www.nerdwallet.com/calculator/compound-interest-calculator.
 
