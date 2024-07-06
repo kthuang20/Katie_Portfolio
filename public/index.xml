@@ -48,7 +48,7 @@
       <link>http://localhost:1313/kthuang20/Katie_Portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kthuang20/Katie_Portfolio/about/</guid>
-      <description>I obtained my Bachelor&amp;rsquo;s of Science in Biomedical Engineering at UMass Lowell and am currently working towards my Master&amp;rsquo;s of Science in Biomedical Engineering and Biotechnology there. I am a self-motivated learner and with a growth mindset who is passionate and adept at computational problem solving and leveraging statistical methods in Python to build data-driven models aimed at helping develop more effective treatments for patients.</description>
+      <description>I obtained my Bachelor&amp;rsquo;s of Science in Biomedical Engineering at UMass Lowell and am currently working towards my Master&amp;rsquo;s of Science in Biomedical Engineering and Biotechnology there. I am a self-motivated learner and with a growth mindset who is passionate and adept at computational problem solving and leveraging statistical methods in Python to build data-driven models aimed at helping develop more effective treatments for patients.&#xA;Link to Resume</description>
     </item>
     <item>
       <title>Contact</title>
@@ -56,13 +56,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kthuang20/Katie_Portfolio/contact/</guid>
       <description>Contact me on the following platforms:&#xA;Platform URL Email: katie.huang830@gmail.com LinkedIn: www.linkedin.com/in/katiehuang20 GitHub: www.github.com/kthuang20 </description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/resume/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

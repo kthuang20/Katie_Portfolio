@@ -1,5 +1,5 @@
 title = "Data Science Portfolio"
-baseURL = "https://github.com/kthuang20/Katie_Portfolio"
+baseURL = "https://github.com/kthuang20/Katie_Portfolio/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
@@ -32,12 +32,6 @@ canonifyURLS = false
   background_color_class = "bg-black"
   recent_posts_number = 5
 
-[menu]
-  [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume/"
-    weight = 2
 
 [[params.ananke_socials]]
 name = "GitHub"
