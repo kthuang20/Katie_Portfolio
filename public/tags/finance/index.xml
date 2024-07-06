@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on Katie Huang</title>
-    <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/</link>
+    <link>https://github.com/kthuang20/Katie_Portfolio/tags/finance/</link>
     <description>Recent content in Finance on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compound Interest Calculator</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-3/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-3/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-3/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-3/</guid>
       <description>Compound Interest Equation Used:&#xA;The inspiration for this user interactive calculator was based on https://www.nerdwallet.com/calculator/compound-interest-calculator.&#xA;I wanted to create this calculator to learn how compound interest works rather than simply plugging in the numbers into a website.&#xA;This web application allows the user to adjust the same parameters as on the website:&#xA;Initial deposit Contribution amount Contribution frequency Years of growth Estimated rate of return It also shows a scatter plot showing the total balance after each year with and without compound interest.</description>
     </item>
   </channel>
