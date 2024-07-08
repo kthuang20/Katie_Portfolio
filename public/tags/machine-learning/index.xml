@@ -10,9 +10,9 @@
     <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accelerating Targeted Drug Discovery Against Antibiotic Resistance with CNNs</title>
-      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-1/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-1/</guid>
       <description>In this project, I tackled the pressing issue of antibiotic resistance by leveraging Convolutional Neural Networks (CNNs) to predict the efficacy of potential drug candidates in inhibiting β-lactamase, a key enzyme involved in antibiotic resistance. Using the ChEMBL dataset, I sourced canonical smiles of compounds known to interact with β-lactamase, which were then transformed into 2D images using RDKit for CNN input. By assigning labels based on pChEMBL values, compounds were categorized as either active (effective at inhibiting β-lactamase) or inactive.</description>
     </item>
   </channel>

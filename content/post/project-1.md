@@ -1,17 +1,13 @@
 ---
-date: 2024-06-27
-description: "A weighted ensemble logistic model that predicts whether one drug could be used to treat for a new treatment based on how similar the biological effects are between pairs of drugs."
-featured_image: "/images/drug_repurposing_cover.jpg"
-tags: ["computational biology", "data science", "drug repurposing"]
-title: "Predicting New Indications for Known Drugs Based on Similarity in Drug Signatures"
+date: 2024-04-27
+description: "A CNN that predicts whether if a compound if a good drug candidate for prevent antibiotic resistance based on its chemical structure."
+featured_image: "/images/antibiotic_resistance.jpg"
+tags: ["antibiotic resistance", "cheminformatics", "drug discovery", "machine learning"]
+title: "Accelerating Targeted Drug Discovery Against Antibiotic Resistance with CNNs"
 ---
 
- Drug repurposing offers a quicker and potentially more cost-effective approach to finding new treatments by repositioning existing drugs with known safety profiles for alternative therapeutic indications. To accelerate the discovery of drug repurposing, the LINCS 1000 project has measured the in vitro effect of hundreds of drugs on gene expression across many cancer cell lines. Using this data, we propose a new approach to facilitating the discovery of new indications of known drugs. Our exploratory analysis revealed that drugs that share an indication caused similar changes in gene expression. However, we found that this was only true for samples that had a high transcriptional activity score (TAS). Therefore, we developed a method that predicts new indications for a drug based on both similarity in gene expression and TAS. Our premise is that when two drugs cause high TAS in a cell line, and cause similar changes in expression, they may treat the same conditions. Our ensemble approach integrates predictions from multiple cell lines. Finally, we evaluate this method’s ability to predict new indications of known drugs using data from clinical trials.
+In this project, I tackled the pressing issue of antibiotic resistance by leveraging Convolutional Neural Networks (CNNs) to predict the efficacy of potential drug candidates in inhibiting β-lactamase, a key enzyme involved in antibiotic resistance. Using the ChEMBL dataset, I sourced canonical smiles of compounds known to interact with β-lactamase, which were then transformed into 2D images using RDKit for CNN input. By assigning labels based on pChEMBL values, compounds were categorized as either active (effective at inhibiting β-lactamase) or inactive. The dataset was meticulously split into training, validation, and testing sets to optimize CNN hyperparameters and evaluate model performance. Impressively, the CNN consistently achieved over 90% accuracy, precision, and recall across all datasets, suggesting that using compound chemical structures is a promising approach for predicting antibiotic resistance prevention. This work not only demonstrates the potential of CNNs in accelerating the discovery of β-lactamase inhibitors but also holds promise in combating antibiotic resistance on a broader scale. Dive into the code notebook to explore the CNN architecture and delve deeper into the methodology behind this impactful research.
 
-* [Video Overview of Project](https://drive.google.com/file/d/1TbS_vYcOG7l2CkxO_X6ZclnxegiBjkzI/view?usp=sharing)
-* [Poster Overview of Project](https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/drug_repo_poster.pdf)
-* [Link to GitHub Repository](https://github.com/kthuang20/LINCS_dataset)
-
-
-If you have any additional questions regarding this project or want to follow up, feel free to reach out to 
-Katie_Huang@student.uml.edu or Rachel_Melamed@uml.edu.
+Links to Jupyter notebook and source code:
+* [Google Colab](https://colab.research.google.com/gist/kthuang20/64c59b559422625b438bd10f45051a09/beta-lactamase-cnn.ipynb)
+* [GitHub Repository](https://github.com/kthuang20/BetaLactamaseCNN/blob/main/Beta_Lactamase_CNN.ipynb)
