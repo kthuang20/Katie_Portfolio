@@ -1,17 +1,38 @@
 ---
-date: 2024-06-27
-description: "A weighted ensemble logistic model that predicts whether one drug could be used to treat for a new treatment based on how similar the biological effects are between pairs of drugs."
-featured_image: "/images/drug_repurposing_cover.jpg"
-tags: ["computational biology", "data science", "drug repurposing"]
-title: "Predicting New Indications for Known Drugs Based on Similarity in Drug Signatures"
+date: 2024-01-04
+description: "A compound interest calculator web application allowing the user to understand how their savings and investment account balances can grow with the magic of compound interest. This web application can be locally deployable using Streamlit."
+featured_image: "/images/savings_photo.jpg"
+tags: ["finance"]
+title: "Compound Interest Calculator"
 ---
 
- Drug repurposing offers a quicker and potentially more cost-effective approach to finding new treatments by repositioning existing drugs with known safety profiles for alternative therapeutic indications. To accelerate the discovery of drug repurposing, the LINCS 1000 project has measured the in vitro effect of hundreds of drugs on gene expression across many cancer cell lines. Using this data, we propose a new approach to facilitating the discovery of new indications of known drugs. Our exploratory analysis revealed that drugs that share an indication caused similar changes in gene expression. However, we found that this was only true for samples that had a high transcriptional activity score (TAS). Therefore, we developed a method that predicts new indications for a drug based on both similarity in gene expression and TAS. Our premise is that when two drugs cause high TAS in a cell line, and cause similar changes in expression, they may treat the same conditions. Our ensemble approach integrates predictions from multiple cell lines. Finally, we evaluate this method’s ability to predict new indications of known drugs using data from clinical trials.
+**Compound Interest Equation Used:**
 
-* [Video Overview of Project](https://drive.google.com/file/d/1TbS_vYcOG7l2CkxO_X6ZclnxegiBjkzI/view?usp=sharing)
-* [Poster Overview of Project](https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/drug_repo_poster.pdf)
-* [Link to GitHub Repository](https://github.com/kthuang20/LINCS_dataset)
+![](https://sqy7rm.media.zestyio.com/Compound-Interest-Formula-Mobile.png)
 
+The inspiration for this user interactive calculator was based on https://www.nerdwallet.com/calculator/compound-interest-calculator.
 
-If you have any additional questions regarding this project or want to follow up, feel free to reach out to 
-Katie_Huang@student.uml.edu or Rachel_Melamed@uml.edu.
+I wanted to create this calculator to learn how compound interest works rather than simply plugging in the numbers into a website.
+
+This web application allows the user to adjust the same parameters as on the website:
+* Initial deposit
+* Contribution amount
+* Contribution frequency
+* Years of growth
+* Estimated rate of return
+
+It also shows a scatter plot showing the total balance after each year with and without compound interest.
+
+Adjusting any of the parameters will automatically adjust the results in the figure.
+
+This web application was built in Python using the following libraries:
+* streamlit
+* pandas
+* plotly
+
+This web application can be run locally by performing the following command in the terminal:
+``` bash
+streamlit run https://github.com/kthuang20/CompoundInterestCalc/blob/master/interest_calc.py
+```
+
+[Link to GitHub Repository](https://github.com/kthuang20/CompoundInterestCalc)

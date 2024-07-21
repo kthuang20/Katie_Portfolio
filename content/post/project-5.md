@@ -1,13 +1,17 @@
 ---
-date: 2023-11-30
-description: "A model that predicts the average expression levels of MYH11 for triple-negative breast cancer patients compared to normal breast cancer samples"
-featured_image: "/images/breast_cancer.png"
-tags: ["cancer genomics"]
-title: "Discovering Driver Genes for Triple-Negative Breast Cancer"
+date: 2024-06-27
+description: "A weighted ensemble logistic model that predicts whether one drug could be used to treat for a new treatment based on how similar the biological effects are between pairs of drugs."
+featured_image: "/images/drug_repurposing_cover.jpg"
+tags: ["computational biology", "drug repurposing"]
+title: "Predicting New Indications for Known Drugs Based on Similarity in Drug Signatures"
 ---
 
-This project showcases a comprehensive journey through the research process, from literature review to hypothesis development and model building. Beginning with a thorough examination of relevant papers, I formulated a hypothesis: whether FPKM levels of MYH11 could serve as a differentiator between triple-negative breast cancer and normal samples. Through meticulous data cleaning and exploratory analysis, I gained insights and visualized trends to validate my hypothesis. Utilizing linear regression modeling, I constructed a predictive model to discern average expression levels of MYH11 between triple-negative and normal samples, thereby contributing to the understanding of breast cancer biomarkers.
+ Drug repurposing offers a quicker and potentially more cost-effective approach to finding new treatments by repositioning existing drugs with known safety profiles for alternative therapeutic indications. To accelerate the discovery of drug repurposing, the LINCS 1000 project has measured the in vitro effect of hundreds of drugs on gene expression across many cancer cell lines. Using this data, we propose a new approach to facilitating the discovery of new indications of known drugs. Our exploratory analysis revealed that drugs that share an indication caused similar changes in gene expression. However, we found that this was only true for samples that had a high transcriptional activity score (TAS). Therefore, we developed a method that predicts new indications for a drug based on both similarity in gene expression and TAS. Our premise is that when two drugs cause high TAS in a cell line, and cause similar changes in expression, they may treat the same conditions. Our ensemble approach integrates predictions from multiple cell lines. Finally, we evaluate this method’s ability to predict new indications of known drugs using data from clinical trials.
 
-Links to Jupyter notebook and source code:
-* [Google Colab](https://colab.research.google.com/drive/1vLEqFvp180Kd24AkW8i_rKtwDAgXxx4Z?usp=sharing)
-* [GitHub Repository](https://github.com/kthuang20/ds4bio_project/blob/main/DS4BIO_Project_Part_4.ipynb)
+* [Video Overview of Project](https://drive.google.com/file/d/1TbS_vYcOG7l2CkxO_X6ZclnxegiBjkzI/view?usp=sharing)
+* [Poster Overview of Project](https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/drug_repo_poster.pdf)
+* [Link to GitHub Repository](https://github.com/kthuang20/LINCS_dataset)
+
+
+If you have any additional questions regarding this project or want to follow up, feel free to reach out to 
+Katie_Huang@student.uml.edu or Rachel_Melamed@uml.edu.
