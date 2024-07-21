@@ -1,7 +1,7 @@
 ---
 date: 2024-07-21
 description: "An interactive dashboard to gain insights into data science salaries, job locations, and employment trends to help you decide if a career in data science fits your goals."
-featured_image: "https://miro.medium.com/v2/resize:fit:1152/1*nVH8ssDdJ-r0ea0331TFdw.png"
+featured_image: "/images/ds_wordmap.png"
 tags: ["data science", "dashboard"]
 title: "Data Science Career Insights Dashboard"
 ---
