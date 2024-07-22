@@ -6,6 +6,8 @@ tags: ["finance"]
 title: "Compound Interest Calculator"
 ---
 
+Click [here](https://kthuang20-compoundinterestcalc-interest-calc-xlneg3.streamlit.app/) to view the dashboard.
+
 **Compound Interest Equation Used:**
 
 ![](https://sqy7rm.media.zestyio.com/Compound-Interest-Formula-Mobile.png)
@@ -25,14 +27,4 @@ It also shows a scatter plot showing the total balance after each year with and 
 
 Adjusting any of the parameters will automatically adjust the results in the figure.
 
-This web application was built in Python using the following libraries:
-* streamlit
-* pandas
-* plotly
-
-This web application can be run locally by performing the following command in the terminal:
-``` bash
-streamlit run https://github.com/kthuang20/CompoundInterestCalc/blob/master/interest_calc.py
-```
-
-[Link to GitHub Repository](https://github.com/kthuang20/CompoundInterestCalc)
+The source code for this dashboard is available at: https://github.com/kthuang20/CompoundInterestCalc
