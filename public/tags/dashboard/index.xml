@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dashboard on Katie Huang</title>
-    <link>https://github.com/kthuang20/Katie_Portfolio/tags/dashboard/</link>
+    <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/dashboard/</link>
     <description>Recent content in Dashboard on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Career Insights Dashboard</title>
-      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-6/</link>
+      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-6/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-6/</guid>
+      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-6/</guid>
       <description>Curious about a career in the data science domain? This interactive dashboard offers a deep dive into the key factors influencing your decision. Explore real-time data on salaries, employment locations, remote work options, and more. Whether you’re considering data science or just exploring, this tool provides essential insights to help you understand if it’s the right fit for you.&#xA;Check it out here and make informed career choices with confidence!</description>
     </item>
   </channel>
