@@ -11,4 +11,4 @@ Curious about a career in the data science domain? This interactive dashboard of
 Check it out [here](https://ds-jobs.streamlit.app/) and make informed career choices with confidence!
 
 
-Source code for this dashbaord is available at: [https://github.com/kthuang20/ds-jobs](https://github.com/kthuang20/ds-jobs)
+Source code for this dashboard is available at: [https://github.com/kthuang20/ds-jobs](https://github.com/kthuang20/ds-jobs)

@@ -38,10 +38,9 @@ name = "Resume"
 url = "https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/Huang_Katie_Resume.pdf"
 
 [[params.ananke_socials]]
-name = "GitHub"
+name = "github"
 url = "https://github.com/kthuang20"
-icon = ""
 
 [[params.ananke_socials]]
-name = "LinkedIn"
+name = "linkedin"
 url = "https://www.linkedin.com/in/katiehuang20"

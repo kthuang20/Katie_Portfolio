@@ -5,7 +5,7 @@ featured_image: "/images/savings_photo.jpg"
 tags: ["finance"]
 title: "Compound Interest Calculator"
 ---
-This user interactive calculator is publically available on Streamlit at: https://kthuang20-compoundinterestcalc-interest-calc-xlneg3.streamlit.app. 
+This user interactive calculator is publically available on Streamlit at: https://compound-interest-calc.streamlit.app. 
 
 **Compound Interest Equation Used:**
 

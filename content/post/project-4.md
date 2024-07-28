@@ -10,4 +10,4 @@ In this project, I tackled the pressing issue of antibiotic resistance by levera
 
 Links to Jupyter notebook and source code:
 * [Google Colab](https://colab.research.google.com/gist/kthuang20/64c59b559422625b438bd10f45051a09/beta-lactamase-cnn.ipynb)
-* [GitHub Repository](https://github.com/kthuang20/BetaLactamaseCNN/blob/main/Beta_Lactamase_CNN.ipynb)
+* [GitHub Repository](https://github.com/kthuang20/BetaLactamaseCNN)
