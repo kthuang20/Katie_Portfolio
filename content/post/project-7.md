@@ -24,6 +24,8 @@ Integrated a simple way to download and analyze transactions and investments acr
 * *Investment Analysis:*
 	* Bar charts for monthly investments by ticker symbol and total investments.
 	* Pie charts for investment types and dividends received.
+* *Crossover Point:*
+	* Line plot showing monthly expenses and monthly investment income.
 
 ## Limitations
 The app was developed using data from Fidelity. While users can upload their own files, the data must be structured similarly to the provided examples. Fidelity users can follow the provided steps, while non-Fidelity users may need to adjust their data manually.
