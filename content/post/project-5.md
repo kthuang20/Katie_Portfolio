@@ -10,7 +10,7 @@ title: "Predicting New Indications for Known Drugs Based on Similarity in Drug S
 
 * [Video Overview of Project](https://drive.google.com/file/d/1TbS_vYcOG7l2CkxO_X6ZclnxegiBjkzI/view?usp=sharing)
 * [Poster Overview of Project](https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/drug_repo_poster.pdf)
-* [Link to GitHub Repository](https://github.com/kthuang20/LINCS_dataset)
+* [Link to GitHub Repository](https://github.com/kthuang20/LINCS_repurposing)
 
 
 If you have any additional questions regarding this project or want to follow up, feel free to reach out to 
