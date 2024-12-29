@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on Katie Huang</title>
-    <link>https://github.com/kthuang20/Katie_Portfolio/tags/finance/</link>
+    <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/</link>
     <description>Recent content in Finance on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finance App 💰</title>
-      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-7/</link>
+      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-7/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-7/</guid>
+      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-7/</guid>
       <description>Objective Developed a personal finance app to provide insights into users&amp;rsquo; spending, saving habits, and investments, guiding them towards their financial goals. Explore the app here.&#xA;Inspiration Managing multiple accounts across different platforms is challenging and time-consuming. Existing finance apps often require new accounts and can be costly. This inspired the creation of a finance app that consolidates financial data without additional costs or complications.&#xA;Methodology Integrated a simple way to download and analyze transactions and investments across all accounts, primarily using Fidelity.</description>
     </item>
     <item>
       <title>Compound Interest Calculator</title>
-      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</link>
+      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</guid>
+      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</guid>
       <description>This user interactive calculator is publically available on Streamlit at: https://compound-interest-calc.streamlit.app.&#xA;Compound Interest Equation Used:&#xA;I wanted to create a calculator to learn how compound interest works rather than simply plugging in the numbers into a website.&#xA;This web application allows the user to adjust the same parameters as on the website:&#xA;Initial deposit Contribution amount Contribution frequency Years of growth Estimated rate of return It also shows a scatter plot showing the total balance after each year with and without compound interest using the compound interest equation above.</description>
     </item>
   </channel>
