@@ -9,11 +9,15 @@ menu:
 
 ![](https://raw.githubusercontent.com/kthuang20/Katie_Portfolio/main/public/images/katie_huang.jpg "Image of Katie Huang")
 
-<!-- I obtained my Bachelor's of Science in Biomedical Engineering at UMass Lowell in December 2023 and am currently working towards my Master's of Science in Biomedical Engineering and Biotechnology there. I am a self-motivated learner with a growth mindset who is passionate and adept at computational problem solving and leveraging statistical methods in Python to build data-driven models aimed at helping develop more effective treatments for patients. I also love learning new things and mentoring others.
+<!-- I obtained my Master's of Science in Biomedical Engineering  and Biotechnology at UMass Lowell in December 2024. 
+
+I am a self-motivated learner with a growth mindset who is passionate and adept at computational problem-solving and leveraging statistical methods in Python to build data-driven models aimed at helping develop more effective treatments for patients. 
+
+I also love learning new things and mentoring others.
 
 ***Hobbies:*** Coding, badminton, table tennis, cooking, listening to music, spending time with friends, journaling -->
 
-I am a dedicated and passionate data scientist with a background in biomedical engineering. I obtained my Bachelor's of Science in Biomedical Engineering from UMass Lowell in December 2023 and am currently pursuing my Master's of Science in Biomedical Engineering and Biotechnology at the same institution. My journey in this interdisciplinary field has fueled my enthusiasm for computational problem-solving and leveraging statistical methods to build data-driven models that can lead to more effective treatments for patients.
+I am a dedicated and passionate data scientist with a background in biomedical engineering. I obtained my Bachelor's of Science in Biomedical Engineering from UMass Lowell in December 2023 and my Master's of Science in Biomedical Engineering and Biotechnology in December 2024 at the same institution. My journey in this interdisciplinary field has fueled my enthusiasm for computational problem-solving and leveraging statistical methods to build data-driven models that can lead to more effective treatments for patients.
 
 As a self-motivated learner with a growth mindset, I thrive on the challenges of analyzing complex datasets to generate important insights. My expertise lies not only in developing machine learning models but also in conducting thorough data analyses to uncover patterns and trends that can drive impactful decisions in healthcare and biotechnology.
 
