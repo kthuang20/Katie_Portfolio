@@ -2,59 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Katie Huang</title>
-    <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/</link>
+    <link>https://github.com/kthuang20/Katie_Portfolio/post/</link>
     <description>Recent content in Projects on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Password Generator 🔑</title>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-9/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-9/</guid>
+      <description>Overview A password generator aimed at creating complex passwords that are easy to remember using user&amp;rsquo;s input.&#xA;Motivation Often when I create my own passwords, I like to use short songs or phrases to generate my passwords by replacing letter with symbols that resemble each letter. This makes it easier to remember in my mind than using software to randomly generate passwords.&#xA;How It Works Simply type in the text that you want to use to generate your password and click the &amp;ldquo;Generate Password&amp;rdquo; button.</description>
+    </item>
+    <item>
+      <title>PubMed Abstract Analyzer 🧐</title>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-8/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-8/</guid>
+      <description>PubMed Article Entity Annotator This program takes the abstract of a PubMed article ID (PMID) as a command line argument and saves the annotations of recognized entities (e.g. proteins, drugs, diseases) as a JSON file.&#xA;It does this by performing the following steps:&#xA;Ask the user to type in the PMID of interest Uses the PubMed web service to retreive the PubMed article for that PMID Extracts the abstract from the PubMed article Uses Gilda, an entity recognition web service, to annotate the abstract with recognized entities It contains the following files:</description>
+    </item>
     <item>
       <title>Finance App 💰</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-7/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-7/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-7/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-7/</guid>
       <description>Objective Developed a personal finance app to provide insights into users&amp;rsquo; spending, saving habits, and investments, guiding them towards their financial goals. Explore the app here.&#xA;Inspiration Managing multiple accounts across different platforms is challenging and time-consuming. Existing finance apps often require new accounts and can be costly. This inspired the creation of a finance app that consolidates financial data without additional costs or complications.&#xA;Methodology Integrated a simple way to download and analyze transactions and investments across all accounts, primarily using Fidelity.</description>
     </item>
     <item>
       <title>Data Science Career Insights Dashboard</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-6/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-6/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-6/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-6/</guid>
       <description>Curious about a career in the data science domain? This interactive dashboard offers a deep dive into the key factors influencing your decision. Explore real-time data on salaries, employment locations, remote work options, and more. Whether you’re considering data science or just exploring, this tool provides essential insights to help you understand if it’s the right fit for you.&#xA;Check it out here and make informed career choices with confidence!</description>
     </item>
     <item>
       <title>Predicting New Indications for Known Drugs Based on Similarity in Drug Signatures</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-5/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-5/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-5/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-5/</guid>
       <description>Drug repurposing offers a quicker and potentially more cost-effective approach to finding new treatments by repositioning existing drugs with known safety profiles for alternative therapeutic indications. To accelerate the discovery of drug repurposing, the LINCS 1000 project has measured the in vitro effect of hundreds of drugs on gene expression across many cancer cell lines. Using this data, we propose a new approach to facilitating the discovery of new indications of known drugs.</description>
     </item>
     <item>
       <title>Accelerating Targeted Drug Discovery Against Antibiotic Resistance with CNNs</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-4/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-4/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-4/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-4/</guid>
       <description>In this project, I tackled the pressing issue of antibiotic resistance by leveraging Convolutional Neural Networks (CNNs) to predict the efficacy of potential drug candidates in inhibiting β-lactamase, a key enzyme involved in antibiotic resistance. Using the ChEMBL dataset, I sourced canonical smiles of compounds known to interact with β-lactamase, which were then transformed into 2D images using RDKit for CNN input. By assigning labels based on pChEMBL values, compounds were categorized as either active (effective at inhibiting β-lactamase) or inactive.</description>
     </item>
     <item>
       <title>Exploring the Genetic Effects of Wnt Pathway on Pancreatic Adenocarcinoma</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-3/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-3/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-3/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-3/</guid>
       <description>As the final project for my Cancer Genomics class, I analyzed the effects of genes in the Wnt pathway on TCGA data on Pancreatic Adenocarncinoma generated by the PanCancer Atlas. The Jupyter notebook walks through all the steps that were taken to clearn the data, analyze it, and obtain all values and visualizations. I also go through the scientific method, using the results I have gathered to ask a follow up question, develop a hypothesis, and test this hypothesis.</description>
     </item>
     <item>
       <title>Compound Interest Calculator</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-2/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-2/</guid>
       <description>This user interactive calculator is publically available on Streamlit at: https://compound-interest-calc.streamlit.app.&#xA;Compound Interest Equation Used:&#xA;I wanted to create a calculator to learn how compound interest works rather than simply plugging in the numbers into a website.&#xA;This web application allows the user to adjust the same parameters as on the website:&#xA;Initial deposit Contribution amount Contribution frequency Years of growth Estimated rate of return It also shows a scatter plot showing the total balance after each year with and without compound interest using the compound interest equation above.</description>
     </item>
     <item>
       <title>Discovering Driver Genes for Triple-Negative Breast Cancer</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-1/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-1/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-1/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-1/</guid>
       <description>This project showcases a comprehensive journey through the research process, from literature review to hypothesis development and model building. Beginning with a thorough examination of relevant papers, I formulated a hypothesis: whether FPKM levels of MYH11 could serve as a differentiator between triple-negative breast cancer and normal samples. Through meticulous data cleaning and exploratory analysis, I gained insights and visualized trends to validate my hypothesis. Utilizing linear regression modeling, I constructed a predictive model to discern average expression levels of MYH11 between triple-negative and normal samples, thereby contributing to the understanding of breast cancer biomarkers.</description>
     </item>
   </channel>

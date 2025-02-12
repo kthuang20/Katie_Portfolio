@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics on Katie Huang</title>
+    <link>https://github.com/kthuang20/Katie_Portfolio/tags/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on Katie Huang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PubMed Abstract Analyzer 🧐</title>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-8/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-8/</guid>
+      <description>PubMed Article Entity Annotator This program takes the abstract of a PubMed article ID (PMID) as a command line argument and saves the annotations of recognized entities (e.g. proteins, drugs, diseases) as a JSON file.&#xA;It does this by performing the following steps:&#xA;Ask the user to type in the PMID of interest Uses the PubMed web service to retreive the PubMed article for that PMID Extracts the abstract from the PubMed article Uses Gilda, an entity recognition web service, to annotate the abstract with recognized entities It contains the following files:</description>
+    </item>
+  </channel>
+</rss>

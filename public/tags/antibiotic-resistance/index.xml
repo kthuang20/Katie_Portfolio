@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antibiotic Resistance on Katie Huang</title>
-    <link>http://localhost:1313/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</link>
+    <link>https://github.com/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/</link>
     <description>Recent content in Antibiotic Resistance on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/antibiotic-resistance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accelerating Targeted Drug Discovery Against Antibiotic Resistance with CNNs</title>
-      <link>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-4/</link>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-4/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kthuang20/Katie_Portfolio/post/project-4/</guid>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-4/</guid>
       <description>In this project, I tackled the pressing issue of antibiotic resistance by leveraging Convolutional Neural Networks (CNNs) to predict the efficacy of potential drug candidates in inhibiting β-lactamase, a key enzyme involved in antibiotic resistance. Using the ChEMBL dataset, I sourced canonical smiles of compounds known to interact with β-lactamase, which were then transformed into 2D images using RDKit for CNN input. By assigning labels based on pChEMBL values, compounds were categorized as either active (effective at inhibiting β-lactamase) or inactive.</description>
     </item>
   </channel>
