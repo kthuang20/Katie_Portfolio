@@ -6,8 +6,15 @@
     <description>Recent content in Projects on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://github.com/kthuang20/Katie_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleep Habits and Their Impact on Productivity, Mood, and Stress 😴</title>
+      <link>https://github.com/kthuang20/Katie_Portfolio/post/project-10/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/post/project-10/</guid>
+      <description>Introduction In our busy lives, sleep is often one of the first things to be compromised. But how much does sleep really impact our daily functioning? For this project, I explored the relationship between sleep habits and their effects on productivity, mood, and stress levels, using a dataset from Kaggle1 that includes over 5000 records from 3858 individuals.&#xA;Key Questions and Findings Does Sleep Duration Affect Productivity? We’ve all heard the saying &amp;ldquo;sleep more, work better,&amp;rdquo; but the data didn’t quite back up this assumption.</description>
+    </item>
     <item>
       <title>Password Generator 🔑</title>
       <link>https://github.com/kthuang20/Katie_Portfolio/post/project-9/</link>

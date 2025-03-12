@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Katie Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://github.com/kthuang20/Katie_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Software Development</title>
       <link>https://github.com/kthuang20/Katie_Portfolio/tags/software-development/</link>
@@ -34,13 +41,6 @@
       <link>https://github.com/kthuang20/Katie_Portfolio/tags/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://github.com/kthuang20/Katie_Portfolio/tags/dashboard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Science</title>
-      <link>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</guid>
       <description></description>
     </item>
     <item>

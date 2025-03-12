@@ -2,8 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://github.com/kthuang20/Katie_Portfolio/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://github.com/kthuang20/Katie_Portfolio/post/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://github.com/kthuang20/Katie_Portfolio/post/project-10/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://github.com/kthuang20/Katie_Portfolio/tags/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -12,17 +32,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/kthuang20/Katie_Portfolio/post/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://github.com/kthuang20/Katie_Portfolio/tags/software-development/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://github.com/kthuang20/Katie_Portfolio/tags/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -43,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://github.com/kthuang20/Katie_Portfolio/tags/dashboard/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://github.com/kthuang20/Katie_Portfolio/tags/data-science/</loc>
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
